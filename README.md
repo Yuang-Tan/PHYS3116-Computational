@@ -1,2 +1,2 @@
-PHYS3116 assignment 2\
+PHYS3116 computational 2\
 Yuang Tan
