@@ -8,3 +8,5 @@
 - Creat the right file type(ipynb) and imported data.
 ## week 4
 - Learn to use loop and lpot and some exercises.
+##
+- Transfer work to new computer!
